@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 190" width="260" height="190" role="img" aria-labelledby="t">
+  <title id="t">Transitive inference: odors A to E are trained only as neighboring pairs, building the order A > B > C > D > E; then B and D, never trained together, are compared and B is chosen</title>
+  <style>
+    .frame{fill:#f3f5f8;stroke:#d7dde7}
+    .cap{font:700 12px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;letter-spacing:1.4px;fill:#1a355b}
+    .sub{font:400 10.5px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;fill:#6b7890}
+    .fur{fill:#2c3038;stroke:#77829a;stroke-width:1.4;stroke-linejoin:round}
+    .pink{fill:#ef9aa6}
+    .gear{fill:none;stroke:#6b7890;stroke-linecap:round;stroke-linejoin:round}
+    .slate{fill:#4f5d74;stroke:#6b7890;stroke-width:1.2;stroke-linejoin:round}
+    .a{animation-iteration-count:infinite;animation-fill-mode:both}
+    .fb{transform-box:fill-box;transform-origin:center}
+    .node{fill:#4f5d74;stroke:#6b7890;stroke-width:1.2}
+    .let{font:700 14px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;fill:#fff;text-anchor:middle}
+    .gt{font:700 15px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;fill:#1a355b;text-anchor:middle;opacity:0}
+    .pill{fill:#1a355b;fill-opacity:.18;stroke:#1a355b;stroke-width:1.6;opacity:0;animation:pill 8s ease-in-out infinite both}
+    .ring{fill:none;stroke:#d5961f;stroke-width:2.6;opacity:0;animation:ring 8s ease-out infinite both}
+    .arc{fill:none;stroke:#d5961f;stroke-width:2.6;stroke-linecap:round;stroke-dasharray:100 102;stroke-dashoffset:100;animation:arc 8s ease-in-out infinite both}
+    .q{font:700 16px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;fill:#c98a14;text-anchor:middle;opacity:0;animation:q 8s linear infinite both}
+    .ans{font:700 15px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;fill:#c98a14;text-anchor:middle;opacity:0;animation:ans 8s linear infinite both}
+    .hint{font:400 10px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;fill:#6b7890;text-anchor:middle}
+    .h1{opacity:0;animation:h1 8s linear infinite both}.h2{opacity:0;animation:h2 8s linear infinite both}
+    @keyframes pill{0%,3%{opacity:0;transform:translateX(0)}6%,13%{opacity:1;transform:translateX(0)}17%,24%{opacity:1;transform:translateX(44px)}28%,35%{opacity:1;transform:translateX(88px)}39%,46%{opacity:1;transform:translateX(132px)}50%,100%{opacity:0;transform:translateX(132px)}}
+    @keyframes ring{0%,57%{opacity:0}61%,93%{opacity:1}97%,100%{opacity:0}}
+    @keyframes arc{0%,60%{stroke-dashoffset:100;opacity:0}61%{stroke-dashoffset:100;opacity:1}70%,93%{stroke-dashoffset:0;opacity:1}97%,100%{stroke-dashoffset:0;opacity:0}}
+    @keyframes q{0%,66%{opacity:0}69%,76%{opacity:1}78%,100%{opacity:0}}
+    @keyframes ans{0%,77%{opacity:0}80%,93%{opacity:1}97%,100%{opacity:0}}
+    @keyframes h1{0%,4%{opacity:0}7%,50%{opacity:1}53%,100%{opacity:0}}
+    @keyframes h2{0%,57%{opacity:0}61%,93%{opacity:1}97%,100%{opacity:0}}
+    .g0{animation:g0 8s linear infinite both}@keyframes g0{0%,9%{opacity:0}11%,55%{opacity:1}58%,93%{opacity:.3}97%,100%{opacity:0}}
+    .g1{animation:g1 8s linear infinite both}@keyframes g1{0%,20%{opacity:0}22%,55%{opacity:1}58%,93%{opacity:.3}97%,100%{opacity:0}}
+    .g2{animation:g2 8s linear infinite both}@keyframes g2{0%,31%{opacity:0}33%,55%{opacity:1}58%,93%{opacity:.3}97%,100%{opacity:0}}
+    .g3{animation:g3 8s linear infinite both}@keyframes g3{0%,42%{opacity:0}44%,55%{opacity:1}58%,93%{opacity:.3}97%,100%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){.a{animation:none!important}.still{opacity:1!important;transform:none!important;stroke-dashoffset:0!important}}
+  </style>
+  <rect class="frame" x=".5" y=".5" width="259" height="189" rx="12"/>
+  <rect class="a pill" x="21" y="63" width="86" height="42" rx="21"/>
+  <circle class="node" cx="42" cy="84" r="15"/><text class="let" x="42" y="89">A</text>
+  <circle class="node" cx="86" cy="84" r="15"/><text class="let" x="86" y="89">B</text>
+  <circle class="node" cx="130" cy="84" r="15"/><text class="let" x="130" y="89">C</text>
+  <circle class="node" cx="174" cy="84" r="15"/><text class="let" x="174" y="89">D</text>
+  <circle class="node" cx="218" cy="84" r="15"/><text class="let" x="218" y="89">E</text>
+  <text class="a gt g0 still" x="64.0" y="89.5">&gt;</text>
+  <text class="a gt g1 still" x="108.0" y="89.5">&gt;</text>
+  <text class="a gt g2 still" x="152.0" y="89.5">&gt;</text>
+  <text class="a gt g3 still" x="196.0" y="89.5">&gt;</text>
+  <circle class="a ring still" cx="86" cy="84" r="19.5"/>
+  <circle class="a ring still" cx="174" cy="84" r="19.5"/>
+  <path class="a arc still" pathLength="100" d="M86 62Q130 18 174 62"/>
+  <text class="a q" x="130" y="37">?</text>
+  <g class="a ans still"><text x="123" y="36" style="font:inherit">B &gt; D</text><path d="M151 30l3.5 3.5l7-8" fill="none" stroke="#f2a929" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text class="a hint h1" x="130" y="124">trained on neighboring pairs only</text>
+  <text class="a hint h2 still" x="130" y="124">never trained together, yet B is chosen</text>
+  <text class="cap" x="16" y="164">3 · INFER</text>
+  <text class="sub" x="16" y="179">A new pair: B vs D</text>
+</svg>

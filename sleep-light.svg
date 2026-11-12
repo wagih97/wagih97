@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 190" width="260" height="190" role="img" aria-labelledby="t">
+  <title id="t">The C57BL/6 mouse sleeps curled up, breathing slowly, while a raster of prefrontal neurons replays a firing sequence</title>
+  <style>
+    .frame{fill:#f3f5f8;stroke:#d7dde7}
+    .cap{font:700 12px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;letter-spacing:1.4px;fill:#1a355b}
+    .sub{font:400 10.5px ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;fill:#6b7890}
+    .fur{fill:#2c3038;stroke:#77829a;stroke-width:1.4;stroke-linejoin:round}
+    .pink{fill:#ef9aa6}
+    .gear{fill:none;stroke:#6b7890;stroke-linecap:round;stroke-linejoin:round}
+    .slate{fill:#4f5d74;stroke:#6b7890;stroke-width:1.2;stroke-linejoin:round}
+    .a{animation-iteration-count:infinite;animation-fill-mode:both}
+    .fb{transform-box:fill-box;transform-origin:center}
+    .scroll{animation:scroll 9s linear infinite}
+    .breathe{transform-origin:116px 150px;animation:breathe 3.4s ease-in-out infinite alternate}
+    .z{font:700 13px ui-sans-serif,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#1a355b;opacity:0;animation:z 3.6s ease-out infinite both}
+    .lbl{font:600 9px ui-sans-serif,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;letter-spacing:1px;fill:#6b7890}
+    @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-216px)}}
+    @keyframes breathe{from{transform:scale(1)}to{transform:scale(1.025,1.04)}}
+    @keyframes z{0%{opacity:0;transform:translate(0,0)}15%{opacity:1}70%{opacity:.9}100%{opacity:0;transform:translate(5px,-12px)}}
+    @media (prefers-reduced-motion: reduce){.a{animation:none!important}.still{opacity:1!important;transform:none!important;stroke-dashoffset:0!important}}
+  </style>
+  <rect class="frame" x=".5" y=".5" width="259" height="189" rx="12"/>
+  <clipPath id="win"><rect x="22" y="18" width="216" height="48"/></clipPath>
+  <text class="lbl" x="22" y="13">mPFC</text>
+  <path d="M22 70H238" stroke="#6b7890" stroke-opacity=".35"/>
+  <g clip-path="url(#win)"><g class="a scroll"><path d="M29.8 20.8v6.4M50.1 20.8v6.4M84.3 20.8v6.4M102.3 20.8v6.4M133.3 20.8v6.4M177.2 20.8v6.4M207.4 20.8v6.4M224.4 20.8v6.4M25.3 29.8v6.4M43.8 29.8v6.4M71.7 29.8v6.4M110.8 29.8v6.4M130.3 29.8v6.4M186.1 29.8v6.4M228.7 29.8v6.4M31.1 38.8v6.4M74.5 38.8v6.4M91.8 38.8v6.4M131.8 38.8v6.4M195.3 38.8v6.4M219.9 38.8v6.4M27.3 47.8v6.4M59.5 47.8v6.4M93.4 47.8v6.4M119.9 47.8v6.4M186.6 47.8v6.4M208.4 47.8v6.4M31.7 56.8v6.4M56.5 56.8v6.4M88.9 56.8v6.4M117.6 56.8v6.4M142.0 56.8v6.4M180.2 56.8v6.4M215.8 56.8v6.4" stroke="#2f5f9e" stroke-width="1.6" stroke-linecap="round"/><path d="M150.0 20.4v7.2M155.5 29.4v7.2M161.0 38.4v7.2M166.5 47.4v7.2M172.0 56.4v7.2" stroke="#f39c12" stroke-width="2.2" stroke-linecap="round"/><path d="M245.8 20.8v6.4M266.1 20.8v6.4M300.3 20.8v6.4M318.3 20.8v6.4M349.3 20.8v6.4M393.2 20.8v6.4M423.4 20.8v6.4M440.4 20.8v6.4M241.3 29.8v6.4M259.8 29.8v6.4M287.7 29.8v6.4M326.8 29.8v6.4M346.3 29.8v6.4M402.1 29.8v6.4M444.7 29.8v6.4M247.1 38.8v6.4M290.5 38.8v6.4M307.8 38.8v6.4M347.8 38.8v6.4M411.3 38.8v6.4M435.9 38.8v6.4M243.3 47.8v6.4M275.5 47.8v6.4M309.4 47.8v6.4M335.9 47.8v6.4M402.6 47.8v6.4M424.4 47.8v6.4M247.7 56.8v6.4M272.5 56.8v6.4M304.9 56.8v6.4M333.6 56.8v6.4M358.0 56.8v6.4M396.2 56.8v6.4M431.8 56.8v6.4" stroke="#2f5f9e" stroke-width="1.6" stroke-linecap="round"/><path d="M366.0 20.4v7.2M371.5 29.4v7.2M377.0 38.4v7.2M382.5 47.4v7.2M388.0 56.4v7.2" stroke="#f39c12" stroke-width="2.2" stroke-linecap="round"/></g></g>
+  <g transform="translate(0 -9)">
+  <!-- bedding and tail -->
+  <path d="M34 157C64 153 94 159 124 155C154 151 184 157 224 154" fill="none" stroke="#6b7890" stroke-opacity=".55" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M71 141C59 150 70 156 97 156C121 156 141 154 155 150" fill="none" stroke="#c08f98" stroke-width="3.2" stroke-linecap="round"/>
+  <!-- curled C57BL/6, breathing -->
+  <g class="a breathe">
+    <path class="fur" d="M70 141C58 129 62 105 84 95C104 86 132 87 150 99C162 107 168 119 166 131C164 141 156 147 146 149H84C78 148 73 145 70 141Z"/>
+    <ellipse cx="104" cy="100" rx="24" ry="6" transform="rotate(-8 104 100)" fill="#fff" opacity=".07"/>
+    <ellipse class="fur" cx="155" cy="133" rx="17" ry="13.5" transform="rotate(28 155 133)"/>
+    <ellipse class="fur" cx="146" cy="113" rx="9.5" ry="11" transform="rotate(12 146 113)"/>
+    <ellipse class="pink" cx="146.5" cy="114" rx="5.4" ry="7" transform="rotate(12 146.5 114)"/>
+    <path d="M152.5 129Q156.5 132.5 161 130.5" fill="none" stroke="#a3acbd" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse class="pink" cx="168.6" cy="141.6" rx="2.7" ry="2.3"/>
+    <path d="M166 141L181 136.5M166.5 142.5L182 142.5" stroke="#a3acbd" stroke-width=".8" stroke-linecap="round"/>
+    <ellipse class="pink" cx="159" cy="148" rx="4.4" ry="2.1"/>
+  </g>
+  </g>
+  <text class="a z still" x="174" y="106">z</text>
+  <text class="a z" x="186" y="94" style="font-size:15px;animation-delay:1.2s">z</text>
+  <text class="a z" x="200" y="81" style="font-size:18px;animation-delay:2.4s">Z</text>
+  <text class="cap" x="16" y="164">2 · SLEEP</text>
+  <text class="sub" x="16" y="179">Offline processing after learning</text>
+</svg>
