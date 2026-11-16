@@ -85,4 +85,4 @@ Specially Appointed Assistant Professor (Postdoctoral Researcher) in [Prof. Kaor
 
 ---
 
-<p align="center">More about my work, with real recordings and an interactive map, at <a href="https://wagih97.github.io"><b>wagih97.github.io</b></a></p>
+<p align="center">More about my work, with real recordings and an interactive map, at <a href="https://wagihmarcus.com"><b>wagihmarcus.com</b></a></p>
