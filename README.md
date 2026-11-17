@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wagih97.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg"><img src="banner-light.svg" width="840" alt="Wagih H. Marcus, systems neuroscientist. Postdoctoral Researcher, University of Toyama, from April 2027. A neuron fires beside the name."></picture></a>
+  <a href="https://wagihmarcus.com"><picture><source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg"><img src="banner-light.svg" width="840" alt="Wagih H. Marcus, systems neuroscientist. Postdoctoral Researcher, University of Toyama, from April 2027. A neuron fires beside the name."></picture></a>
 </p>
 
 <p align="center">I study how the brain links separate memories to infer relationships it has never experienced,<br>recording prefrontal neurons in mice during learning and the sleep that follows.</p>
